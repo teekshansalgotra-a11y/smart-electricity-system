@@ -169,8 +169,8 @@ AREA ──────── CONSUMER ──── METER ──── CONSUMPTI
 ## 📬 Contact
 
 **Teekshan Salgotra**
-- 📧 Email: [your email here]
-- 💼 LinkedIn: [your LinkedIn here]
+- 📧 Email: teekshansalgotr@gmail.com
+- 💼 LinkedIn: [teekshan-salgotra](https://www.linkedin.com/in/teekshan-salgotra-82a182326/)
 - 🐙 GitHub: [teekshansalgotra-a11y](https://github.com/teekshansalgotra-a11y)
 
 ---
